@@ -16,6 +16,7 @@ button:hover {
 .mydiv{
 text-align: center;
 margin-top: 50px;
+height: 100vh;
 }
 body{
   background-image:url("mybackground.jpg") ;

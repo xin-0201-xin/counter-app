@@ -13,13 +13,17 @@ button:hover {
   background-color: white; /* Green */
   color: green;
 }
-.mydiv{
+.container{
 text-align: center;
 margin-top: 50px;
-height: 100vh;
+
+
 }
 body{
   background-image:url("mybackground.jpg") ;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 #count-el{
   font-size: 50px;
